@@ -13,7 +13,7 @@ Data dictionary:
 
 <ul>
 
-<li>**Customer code**: Unique customer code within the system;</li>
+<li>__Customer code__: Unique customer code within the system;</li>
 <li>**Risk level**: degree of danger of the place, with 5 being the highest;</li>
 <li>**Has CCTV server**: indicates whether the client has image monitoring (0: no; 1: yes);</li>
 <li>**Individual, legal entity or public body**: 0 = legal person, 1 = physical person, 2 = public body;</li>
