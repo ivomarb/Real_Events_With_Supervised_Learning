@@ -13,13 +13,13 @@ Data dictionary:
 
 <ul>
 
-<li>__Customer code__: Unique customer code within the system;</li>
-<li>**Risk level**: degree of danger of the place, with 5 being the highest;</li>
-<li>**Has CCTV server**: indicates whether the client has image monitoring (0: no; 1: yes);</li>
-<li>**Individual, legal entity or public body**: 0 = legal person, 1 = physical person, 2 = public body;</li>
-<li>**State, City, Neighborhood**: Locality of the client;</li>
-<li>**Date/time**: date / time of the event;</li>
-<li>**Event code**: event code sent;</li>
-<li>**Confirmed(target)**: indicates if there was a claim on the customer (0: no, 1: yes).</li>
+<li>Customer code: Unique customer code within the system;</li>
+<li>Risk level: Degree of danger of the place, with 5 being the highest;</li>
+<li>Has CCTV server: Indicates whether the client has image monitoring (0: no; 1: yes);</li>
+<li>Individual, legal entity or public body: 0 = legal person, 1 = physical person, 2 = public body;</li>
+<li>State, City, Neighborhood: Locality of the client;</li>
+<li>Date/time: Date / time of the event;</li>
+<li>Event code: Event code sent;</li>
+<li>Confirmed: Indicates if there was a claim on the customer (0: no, 1: yes).</li>
 
 </ul>
