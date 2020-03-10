@@ -1,4 +1,4 @@
-# Real_Shots_With_Supervised_Learning
+# Real Events With Supervised Learning
 
 Monitoring company: any company that uses a platform to handle signals (events) arising from electronic alarm systems (with motion sensors,
 for example), cameras, etc.
